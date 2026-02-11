@@ -55,5 +55,5 @@ An interactive and modern web interface for real-time sentiment analysis using D
 1. **Clone the repository (or download the files)**
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/mazygh/project_analysis_sentiment
 cd sentiment-analysis-app
