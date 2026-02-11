@@ -1,0 +1,19 @@
+# Requirements pour l'application d'analyse de sentiment
+
+# Framework web
+streamlit==1.29.0
+
+# Modèles de langue et NLP
+transformers==4.35.2
+torch==2.1.1
+tokenizers==0.15.0
+
+# Visualisation
+plotly==5.18.0
+
+# Data manipulation
+pandas==2.1.3
+numpy==1.26.2
+
+# Utilitaires
+python-dateutil==2.8.2
